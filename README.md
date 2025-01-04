@@ -46,9 +46,11 @@ CIBMTR - Equity in post-HCT Survival Predictions
     <li>Tackle disparities by integrating diverse data sources, refining algorithms, and reducing biases.</li>
 </ul>
 
+
 <h2>Impact</h2>
 <p>Your work will help to:</p>
 <ul>
     <li>Create a more equitable and effective healthcare environment</li>
     <li>Ensure that every patient receives the care they deserve</li>
+    <li>Conpetition Kaggle:[Ensure that every patient receives the care they deserve](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview)</li>
 </ul>
