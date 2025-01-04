@@ -1,4 +1,4 @@
-# Kaggle-HCT
+# HCT
 CIBMTR - Equity in post-HCT Survival Predictions
 
 <h1>Kaggle Competition: Equity in Post-HCT Survival Predictions</h1>
