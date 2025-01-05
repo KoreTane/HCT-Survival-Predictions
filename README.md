@@ -51,5 +51,5 @@ https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overvie
 <h2>Impact</h2>
 <p>Your work will help to:</p>
 <ul>
-    <li>Create a more equitable and effective healthcare environment</li>
+    <li>Create a more equitable and effective healthcaree environment</li>
     <li>Ensure that every patient receives the care they deserve</li>
