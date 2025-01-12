@@ -2,7 +2,7 @@
 CIBMTR - Equity in post-HCT Survival Predictions
 https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overview
 
-<h1>Kaggle Competition: Equity in Post-HCT Survival Predictionss </h1>
+<h1>Kaggle Competition: Equity in Post-HCT Survival Predictions </h1>
 
 <p>The goal of this competition is to improve the prediction of post-hematopoietic stem cell transplant (HCT) survival rates equitably for different patient groups.</p>
 
