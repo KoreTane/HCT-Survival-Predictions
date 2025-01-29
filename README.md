@@ -44,7 +44,7 @@ https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions/overvie
 <p>You are challenged to:</p>
 <ul>
     <li>Develop advanced predictive models for allogeneic HCT that enhance accuracy and fairness in survival predictions.</li>
-    <li>Tackle disparities by integrating diverse data sources, refining algorithms, and reducing biases.</li>
+    <li>Tackle disparities by integrating diverse data sources, refining algorithms, and reducing biasess.</li>
 </ul>
 
 
